@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </h2>
 
 <h3 align="center"> I'm Nikhil Reddy Kayam </h3>
-<h3 align="center"> Software Engineer | Computer Science Grad at ASU | IIT Bhilai Alum </h3>
+<h3 align="center"> Software Engineer | Computer Science Grad at ASU | CSE @ IIT Bhilai </h3>
 
 
 ## About Me :
