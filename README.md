@@ -75,6 +75,7 @@ I'm interested in -
 ![Azure](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
